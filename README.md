@@ -6,6 +6,7 @@
  # Results
  
  ![runs](https://github.com/Hauf3n/World-Models-CarRacing-PyTorch/blob/master/media/runs.gif)
+ [Youtube](https://www.youtube.com/watch?v=CAA_a5qtD34)
  
  # Evolutionary training
  
