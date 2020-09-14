@@ -13,12 +13,15 @@
  # Results
  
  ![runs](https://github.com/Hauf3n/World-Models-CarRacing-PyTorch/blob/master/media/runs.gif)
- [Youtube](https://www.youtube.com/watch?v=CAA_a5qtD34)
+ [Youtube](https://www.youtube.com/watch?v=CAA_a5qtD34)<br />
+ The major improvements in regards to model free RL methods (watch CarRacing environment on Youtube)
+ are that the Controller network gets an oberservation encoding and a time dependent representation from the RNN. 
+ Because of that you are able to solve the task by just applying an evolutionary algorithm on top of that.
  
  # Evolutionary training
  
  ![es](https://github.com/Hauf3n/World-Models-CarRacing-PyTorch/blob/master/media/es.png)
- - population size:16, rollouts:18
+ - (small) population size: 16, rollouts: 18
  
  # VAE representations
  
